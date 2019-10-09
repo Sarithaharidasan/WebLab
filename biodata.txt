@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Biodata</title>
+</head>
+<body>
+<h2> MYSELF </h2>
+<p style="color:red;">My name is saritha H .I am form kollam .Recently, I am doing MCA from tTKM college kollam</p>
+</body>
+</html>
